@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Aerial/static/css/main.fb6d7ca1.css",
-    "main.js": "/Aerial/static/js/main.36731d88.js",
+    "main.js": "/Aerial/static/js/main.d5eed351.js",
     "index.html": "/Aerial/index.html",
     "main.fb6d7ca1.css.map": "/Aerial/static/css/main.fb6d7ca1.css.map",
-    "main.36731d88.js.map": "/Aerial/static/js/main.36731d88.js.map"
+    "main.d5eed351.js.map": "/Aerial/static/js/main.d5eed351.js.map"
   },
   "entrypoints": [
     "static/css/main.fb6d7ca1.css",
-    "static/js/main.36731d88.js"
+    "static/js/main.d5eed351.js"
   ]
 }
