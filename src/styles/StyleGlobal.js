@@ -250,6 +250,7 @@ export const StylesFooter = styled.div`
     flex-wrap:wrap;
     gap:16px;
     margin-top:40px;
+    justify-content: center;
 
 `
 export const StylesFCard = styled.div`
